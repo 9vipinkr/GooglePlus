@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164432790280",
+    "project_id": "starry-hawk-150508"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164432790280:android:80aebe98d65e6be7",
+        "android_client_info": {
+          "package_name": "com.vipinkr.googleplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164432790280-74m6brrigac3admktuup1njurb7j2dr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vipinkr.googleplus",
+            "certificate_hash": "580E4E60B93BE93FFFCBEF9E1BD0C1F800D6144E"
+          }
+        },
+        {
+          "client_id": "164432790280-bluoo3g5gq5d1i207i00ud9nv5g00vdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-fOlp3cVu6U0y6DaCOYQFBc1aqkMSo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
